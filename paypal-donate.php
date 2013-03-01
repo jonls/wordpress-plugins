@@ -1,11 +1,11 @@
 <?php
 /**
- * @package Paypal-Donate
+ * @package jonls.dk-Paypal-Donate
  * @author Jon Lund Steffensen
  * @version 0.1
  */
 /*
-Plugin Name: Paypal-Donate
+Plugin Name: jonls.dk-Paypal-Donate
 Plugin URI: http://wordpress.org/#
 Description: Paypal donate shortcode
 Author: Jon Lund Steffensen

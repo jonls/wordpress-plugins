@@ -1,11 +1,11 @@
 <?php
 /**
- * @package Simple-Flattr
+ * @package jonls.dk-Simple-Flattr
  * @author Jon Lund Steffensen
  * @version 0.3
  */
 /*
-Plugin Name: Simple-Flattr
+Plugin Name: jonls.dk-Simple-Flattr
 Plugin URI: http://jonls.dk/
 Description: Simple plugin for insertion of simple flattr button
 Author: Jon Lund Steffensen

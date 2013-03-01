@@ -1,11 +1,11 @@
 <?php
 /**
- * @package Shortcode-Widget
+ * @package jonls.dk-Shortcode-Widget
  * @author Jon Lund Steffensen
  * @version 0.1
  */
 /*
-Plugin Name: Shortcode-Widget
+Plugin Name: jonls.dk-Shortcode-Widget
 Plugin URI: http://wordpress.org/#
 Description: Use shortcodes in widgets.
 Author: Jon Lund Steffensen
